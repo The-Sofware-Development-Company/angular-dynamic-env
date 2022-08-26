@@ -3,8 +3,6 @@
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0. \
 It provides a service to dynamically load and get `.env` file after build. 
 
-[GitHub](https://github.com/ArturPetrosyan003/angular_dynamic-env)
-
 ## Installation
 
 Install via npm 
