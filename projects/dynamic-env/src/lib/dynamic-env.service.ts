@@ -25,7 +25,6 @@ export class EnvService {
                 : item.split('=')[1] === 'true',
           };
         });
-        console.log(this.config);
       });
   }
 
