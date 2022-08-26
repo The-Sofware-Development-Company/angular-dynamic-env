@@ -48,5 +48,9 @@
     "javascript",
     "dynamic environment",
     "docker"
-  ]
+  ],
+  "author": {
+    "name": "Artur Petrosyan",
+    "url": "https://portfolio-925d4.web.app/"
+  }
 }
