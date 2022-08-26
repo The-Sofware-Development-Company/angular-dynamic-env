@@ -35,5 +35,18 @@
     "karma-jasmine-html-reporter": "~2.0.0",
     "ng-packagr": "^14.1.0",
     "typescript": "~4.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArturPetrosyan003/angular_dynamic-env"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Angular",
+    "front-end",
+    "dynamic env",
+    "javascript",
+    "dynamic environment",
+    "docker"
+  ]
 }
