@@ -90,7 +90,7 @@ If everything is setup correct you'll have a dynamically changing `env` file aft
 ## Contributing
 
 **Email**: <petrosyanartur78@gmail.com> \
-**Website**: <https://portfolio-925d4.web.app/> \
+**Website**: <https://stayyourself.art/> \
 **GitHub**: <https://github.com/ArturPetrosyan003>
 
 ## License
